@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Viet 
 
-<!--
-**vi3ng0/vi3ng0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="Viet | linkeIn" width="22px" scrc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/viet-ngo-36265b266/
+## Information Technology Projects:
 
-Here are some ideas to get you started:
+| osTicket (Help Desk Ticketing System)         |
+|-----------------------------------------------|
+| <a href="">Prerequisites and Installation</a> |
+| <a href="">Post-Installation Configuration</a>|
+| <a href="">Resolving Tickets in a Ticketing System</a>|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Microsoft Azure                               |
+|-----------------------------------------------|
+| <a href="">Inspecting Network Traffic in Azure</a>            |
+| <a href="">Installing Active Directory in Azure</a>           |
+| <a href="">Configuring Active Directory in Azure</a>          |
+| <a href="">Understanding DNS in Azure</a>                     |
+| <a href="">Understanding File Permissions in Azure</a>        |
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
