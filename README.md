@@ -1,7 +1,6 @@
 # Hello, I'm Viet 
+<a href="https://linkedin.com](https://www.linkedin.com/in/viet-ngo-36265b266/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[<img align="left" alt="Viet | linkeIn" width="22px" scrc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/viet-ngo-36265b266/
 ## Information Technology Projects:
 
 | osTicket (Help Desk Ticketing System)         |
